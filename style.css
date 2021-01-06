@@ -66,7 +66,7 @@ nav a{
     text-decoration: none;
     padding: 14px 40px;
     margin: 1px;
-    background-color: salmon;
+    background-image:linear-gradient(45deg, lightSalmon,tomato);
     font-size: 20px;
     color: white;
     margin-top: 10px;
@@ -76,7 +76,7 @@ nav a{
 section{
     height: 750px;
     
-    border: 1px solid red;
+    
     
 }
 .second{
@@ -164,7 +164,10 @@ span{
     color: white;
     padding: 120px;
     font-size: 50px;
+    text-align: left;
+
 }
-.last-one{
+.last1{
     float: right;
 }
+
