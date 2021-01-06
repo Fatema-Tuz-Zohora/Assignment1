@@ -1,0 +1,170 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+
+}
+h1{
+    font-size: 74px;
+    color:#3A2D59;
+    
+    
+}
+p{
+    color:#4c4c4c;
+    font-size: 18px;
+    padding-bottom:
+}
+
+   
+
+.half-width img{
+    width: 93%;
+    height: 505px;
+   
+}
+.hello{
+    line-height: 18px;
+    margin-top: 150px;
+}
+.salmon-highlight{
+    color: salmon;
+    
+    height: 8px;
+    font-size: 74px;
+    padding-bottom: 7px;
+    
+}
+.half-width {
+    
+    width: 33%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 3%;
+    margin-top: 100px;
+
+
+    
+}
+nav{
+    float: right;
+    margin: 42px 150px;
+    
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    padding: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.full-stack{
+    margin-bottom: 71px;
+
+}
+.link-button{
+    text-decoration: none;
+    padding: 14px 40px;
+    margin: 1px;
+    background-color: salmon;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+section{
+    height: 750px;
+    
+    border: 1px solid red;
+    
+}
+.second{
+    height: 650px;
+}
+
+h2{
+    color:#3A2D59;
+    font-size: 38px;
+
+}
+h2.working-project {
+    
+    
+    
+    text-align: center;
+    color:#3A2D59;
+    padding: 65px;
+
+
+}
+span{
+    color: #f7484f;
+}
+.lastet{
+    background-color: #f8f8fc;
+    height: 800px;
+    display: block;
+}
+.work-area{
+    
+    margin-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    width: 26%;
+    border-radius: 10px;
+    
+    height: 100%;
+    padding-left: 3%;
+    
+    
+
+}
+.work-area h3{
+    color: #3A2D59;
+    text-align: left;
+    font-size: 24px;
+}
+.work-area p{
+    text-align: left;
+    font-size: 20px;
+}
+
+.work-area img{
+    width: 100%;
+    
+    
+}
+.project{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+    
+.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .last{
+    background-image: url(images/Group_33094_1.png);
+    background-size: 100%;
+    margin: 40px;
+    border: 2px solid #6800d3);
+    background-repeat: no-repeat;
+    width: 1206px;
+    height: 300px;
+    background-size: cover;
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border-radius: 42px;
+  }
+  .inquiry h2{
+    color: white;
+    padding: 120px;
+    font-size: 50px;
+}
+.last-one{
+    float: right;
+}
